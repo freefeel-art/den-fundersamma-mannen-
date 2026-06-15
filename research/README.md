@@ -1,4 +1,10 @@
-research/tolaria.md
-research/video-tools.md
-research/chatgpt-export.md
-research/github-repos.md
+# Research
+
+This folder contains research, tools, ideas and references related to Den Fundersamma Mannen.
+
+## Topics
+
+- Tolaria
+- Video Tools
+- ChatGPT Export
+- GitHub Repositories
